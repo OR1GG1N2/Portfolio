@@ -1,0 +1,57 @@
+.unbound {
+  font-family: "Unbounded", sans-serif;
+}
+
+.unbound--black {
+  font-weight: 900;
+}
+
+.unbound--extrabold {
+  font-weight: 800;
+}
+
+.unbound--bold {
+  font-weight: 700;
+}
+
+.unbound--semi {
+  font-weight: 600;
+}
+
+.unbound--regular {
+  font-weight: 400;
+}
+.unbound--light {
+  font-weight: 300;
+}
+.unbound--extralight {
+  font-weight: 200;
+}
+
+.bg {
+  position: fixed;
+  inset: 0;
+  background:
+    radial-gradient(circle at 80% 70%, rgba(243, 213, 161, 0.28), transparent 55%),  /* warm sand */
+    radial-gradient(circle at 25% 80%, rgba(120, 240, 200, 0.32), transparent 55%),  /* mint glow */
+    radial-gradient(circle at 50% 5%, rgba(0, 0, 0, 0.85), transparent 70%),         /* top shadow */
+    linear-gradient(180deg, #060808 0%, #0D1918 50%, #0F2A24 100%);                  /* dark base */
+  z-index: -1;
+}
+
+.ui-block {
+  /* padding: 1.5rem;
+  border-radius: 1.5rem; */
+  background: #ffffff10; /* полупрозрачный светлый фон */
+  border: 1px solid #ffffff20;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+
+  /* Плавность */
+  transition: 0.25s ease;
+}
+/* 
+.ui-block:hover {
+  background: #ffffff20;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+} */
