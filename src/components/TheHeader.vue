@@ -1,5 +1,5 @@
 <template>
-  <header class="sticky top-0 z-50 grid h-auto sm:h-18 w-full select-none items-center md:bg-black/0 md:backdrop-blur-none bg-black/20 backdrop-blur-sm">
+  <header class="absolute top-0 z-50 grid h-auto sm:h-18 w-full select-none items-center md:bg-black/0 md:backdrop-blur-none bg-black/20 backdrop-blur-sm">
     <div class="container px-3 sm:px-6 mx-auto grid grid-cols-1 items-center gap-4 sm:gap-6 py-3 sm:py-0">
       <!-- МОБИЛЬНОЕ МЕНЮ (видно только на мобилах) -->
       <div class="flex sm:hidden justify-between items-center">
