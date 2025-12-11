@@ -1,23 +1,31 @@
 <template>
-    <section class="relative pt-24  min-h-screen bg z-10">
-        <div class="ui-block max-w-fit p-3 rounded-xl mx-auto">
-            <div class="flex gap-4 justify-center">
-                <a href="#" class="text-zinc-400 hover:opacity-80 transition text-[36px] fa-brands fa-twitch"></a>
-                <a href="#" class="text-zinc-400 hover:opacity-80 transition text-[36px] fa-brands fa-telegram"></a>
-                <a href="#" class="text-zinc-400 hover:opacity-80 transition text-[36px] fa-brands fa-github"></a>
-                <a href="#" class="text-zinc-400 hover:opacity-80 transition text-[36px] fa-brands fa-discord"></a>
-                <a href="#" class="text-zinc-400 hover:opacity-80 transition text-[36px] fa-brands fa-tiktok"></a>
-
-            </div>
-
+    <section class="relative pt-24 bg">
+        <div class="mx-auto mt-10 grid max-w-7xl px-6  ui-block rounded-xl">
+            <image src="https://cujmhjcgxrnwzbojbluy.supabase.co/storage/v1/object/public/Or1gg1n%20arts/photo_2025-12-10_16-12-07.jpg" alt="Hero Image" class="mx-auto w-full h-auto rounded-xl"/>
         </div>
     </section>
+  
 </template>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+
+</style>
 
 <script>
 export default {
 
 }
 </script>
-
-<style></style>

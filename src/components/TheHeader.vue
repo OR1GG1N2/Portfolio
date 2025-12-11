@@ -9,13 +9,13 @@
           href="/">Главная</a>
 
         <a class="flex rounded-full transition hover:bg-zinc-100 dark:hover:bg-white/10 -my-2 px-4 py-2 text-sm font-medium text-zinc-700 dark:text-zinc-100 hover:text-black dark:hover:text-white"
-          href="/about">О сервере</a>
+          href="/about">Мои проекты</a>
 
         <a class="flex rounded-full transition hover:bg-zinc-100 dark:hover:bg-white/10 -my-2 px-4 py-2 text-sm font-medium text-zinc-700 dark:text-zinc-100 hover:text-black dark:hover:text-white"
-          href="/rules">Правила</a>
+          href="/rules">Персонаж</a>
 
         <a class="flex rounded-full transition hover:bg-zinc-100 dark:hover:bg-white/10 -my-2 px-4 py-2 text-sm font-medium text-zinc-700 dark:text-zinc-100 hover:text-black dark:hover:text-white"
-          href="/wiki">Вики</a>
+          href="/wiki">Арты</a>
       </nav>
     </div>
   </header>
