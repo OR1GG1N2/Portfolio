@@ -12,7 +12,7 @@
       </div>
 
       <!-- НАВИГАЦИЯ -->
-      <nav :class="['flex', 'flex-col', 'sm:flex-row', 'sm:justify-center', 'gap-5', 'sm:gap-2', {'hidden sm:flex': !isMenuOpen, 'flex': isMenuOpen}]">
+      <nav :class="['flex', 'flex-col', 'sm:flex-row', 'sm:justify-center', 'gap-8', 'sm:gap-2', {'hidden sm:flex': !isMenuOpen, 'flex': isMenuOpen}]">
         <a class="flex rounded-full  transition hover:bg-teal-100 dark:hover:bg-teal-300/10 -my-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm font-medium text-teal-500 dark:text-teal-400"
           href="/"
           @click="isMenuOpen = false">Главная
