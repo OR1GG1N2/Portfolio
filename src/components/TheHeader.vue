@@ -19,15 +19,15 @@
         </a>
 
         <a class="flex rounded-full transition hover:bg-zinc-100 dark:hover:bg-white/10 -my-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm font-medium text-zinc-700 dark:text-zinc-100 hover:text-black dark:hover:text-white"
-          href="/about"
+          href=""
           @click="isMenuOpen = false">Проекты</a>
 
         <a class="flex rounded-full transition hover:bg-zinc-100 dark:hover:bg-white/10 -my-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm font-medium text-zinc-700 dark:text-zinc-100 hover:text-black dark:hover:text-white"
-          href="fursona"
+          href=""
           @click="isMenuOpen = false">Персонаж</a>
 
         <a class="flex rounded-full transition hover:bg-zinc-100 dark:hover:bg-white/10 -my-2 px-2.5 sm:px-4 py-2 text-xs sm:text-sm font-medium text-zinc-700 dark:text-zinc-100 hover:text-black dark:hover:text-white"
-          href="/wiki"
+          href=""
           @click="isMenuOpen = false">Арты</a>
       </nav>
     </div>
