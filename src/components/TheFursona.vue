@@ -23,13 +23,10 @@
                 </div>
                 
                 <div class="mt-10 md:mt-0">
-                    <div class="bg-gray-800 p-4 sm:p-6 rounded-lg shadow-2xl border-2 border-teal-500 overflow-hidden">
-                        <div class="aspect-square bg-gray-700 flex items-center justify-center rounded-md">
-                            <span class="text-white/50 text-xl">
-                                Место для изображения (500x500)
-                            </span>
-                        </div>
-                    </div>
+                    
+                               <img src="/src/assets/photo_2025-12-10_16-12-07.jpg" alt="Avatar"
+                        class="  rounded-lg shadow-2xl overflow-hidden shadow-[0_0_30px_rgba(120,240,200,0.6)]" />
+                    
                 </div>
             </div>
             

@@ -3,7 +3,7 @@
   <TheHeader/>
   <TheSocial/>
   <TheHero/>
-  <TheFursona/>
+  <TheFursona class="mt-10" id="fursona"/>
 
 </template>
 
